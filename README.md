@@ -5,7 +5,7 @@ Welcome to my personal portfolio website. This project showcases my skills and e
 ## Live Site
 
 You can view the live version of this portfolio at:
-**[https://your-github-Chebbyyy.github.io/daisy-portfolio/] https://chebbyyy.github.io/daisy-portfolio/**
+**[ https://chebbyyy.github.io/daisy-portfolio/] https://chebbyyy.github.io/daisy-portfolio/**
 
 ## Features
 
