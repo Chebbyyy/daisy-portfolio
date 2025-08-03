@@ -5,7 +5,7 @@ Welcome to my personal portfolio website. This project showcases my skills and e
 ## Live Site
 
 You can view the live version of this portfolio at:
-**[https://your-github-username.github.io/daisy-portfolio/](https://your-github-username.github.io/daisy-portfolio/)** *(replace with your actual GitHub Pages URL)*
+**[https://your-github-username.github.io/daisy-portfolio/](https://your-github-Chebbyyy.github.io/daisy-portfolio/)** *(replace with your actual GitHub Pages URL)*
 
 ## Features
 
